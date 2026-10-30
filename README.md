@@ -1,5 +1,9 @@
 # garage-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/garage-s3-or-just-updated-object-store-t?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Garage S3 template](https://railway.com/deploy/garage-s3-or-just-updated-object-store-t?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Garage](https://garagehq.deuxfleurs.fr/) — a lightweight
 S3-compatible object store — on Railway.
 
